@@ -1,5 +1,7 @@
 # Open Source Link G5
 
+this was only created as i have a misfire i can not figure out for the life of me, tunners havent been able to figure it out so maybe ai can, this is purely a way for a ai to be able to open a tune file and see if anything is not correct
+
 Unofficial tools for reading and editing Link ECU **PCLink** tune files (`.pclx` G4X, `.pcl5` G5)
 outside of PCLink - from the command line, from Python, from an AI assistant, or in an offline
 PCLink-style window.
